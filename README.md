@@ -4,7 +4,7 @@
 > Control your QCar from your phone — secure, fast, and intuitive.  
 > Built for researchers, designed for everyone.
 
-![Mobile Controller UI](docs/app_ui.png)
+![Mobile Controller UI](app.jpg)
 
 ---
 
