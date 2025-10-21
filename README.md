@@ -73,7 +73,7 @@ python qcar_phone_drive.py --host 0.0.0.0 --port 8000 --rate 50 --readmode 0 --l
 #### B) **QLabs Virtual Lab**
 Use the standard immediate I/O as well (works fine in sim):
 ```bash
-python qcar_phone_drive.py --host 0.0.0.0 --port 8000 --rate 50 --readmode 0
+python task_task_manual_drive_phone.py --host 0.0.0.0 --port 8000 --rate 50 --readmode 0
 ```
 
 > **Tip:** If you previously used `task_task_manual_drive_phone.py`, the new script name is `qcar_phone_drive.py` but the flags stay the same.
