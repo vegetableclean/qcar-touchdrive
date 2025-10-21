@@ -1,6 +1,6 @@
 # QCar TouchDrive
 
-**Mobile-friendly dual-joystick controller for the Quanser QCar** (works in Virtual Lab or on hardware).  
+**Mobile-friendly dual-joystick controller for the Quanser QCar** (works in Quanser Virtual Lab).  
 Control steering & speed from your phone with real-time telemetry over WebSockets.
 
 - **Left pad** → steering (X axis)  
