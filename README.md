@@ -1,7 +1,9 @@
 # QCar TouchDrive
 
-**Mobile-friendly dual-joystick controller for the Quanser QCar** (works in Quanser Virtual Lab).  
+**Mobile-friendly dual-joystick controller for the Quanser QCar** (works in Virtual Lab or on hardware).  
 Control steering & speed from your phone with real-time telemetry over WebSockets.
+
+Developed by **Chieh Tsai (Emery)** — *Autonomic Computing Lab (ACL), Department of Electrical and Computer Engineering, University of Arizona.*
 
 - **Left pad** → steering (X axis)  
 - **Right pad** → throttle/speed (Y axis; up = forward, down = reverse)  
@@ -173,6 +175,11 @@ Useful for experiments and audits.
 
 ## 🙏 Acknowledgements
 
-- Quanser QCar & associated `pal` libraries  
-- `aiohttp` for WebSocket server  
-- You for building a slick mobile teleop UI 🚀
+Developed by **Chieh Tsai (Emery)**  
+Autonomic Computing Lab (ACL) — University of Arizona  
+Advisor: **Prof. Salim Hariri**  
+
+Cite as:  
+> Tsai, C. (2025). *QCar TouchDrive: A Mobile Dual-Joystick Teleoperation Interface for Quanser QCar.* Autonomic Computing Lab, University of Arizona.
+
+---
