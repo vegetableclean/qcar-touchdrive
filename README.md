@@ -29,7 +29,6 @@ With Tailscale, you can securely control your vehicle across networks, even from
 
 </div>
 
-
 ```
 [Phone Controller] ⇄ [WebSocket Server] ⇄ [QCar / Virtual Lab]
 ```
@@ -118,6 +117,9 @@ Timestamp, LinearSpeed_mps, Battery_pct, Throttle_cmd, Steering_cmd, Armed, ESto
 Developed by **Chieh Tsai (Emery)**  
 Autonomic Computing Lab (ACL) — University of Arizona  
 Advisor: **Prof. Salim Hariri**  
+
+Based on and extended from the official **Quanser QCar manual_drive.py** codebase.  
+Special thanks to **Quanser Inc.** for their foundational QCar platform and API.
 
 Cite as:  
 > Tsai, C. (2025). *QCar TouchDrive: A Mobile Dual-Joystick Teleoperation Interface for Quanser QCar.* Autonomic Computing Lab, University of Arizona.
