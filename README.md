@@ -12,8 +12,23 @@
 The QCar TouchDrive app connects your phone directly to the Quanser QCar — either physical or virtual — using a real-time WebSocket interface.  
 With Tailscale, you can securely control your vehicle across networks, even from outside your local lab.
 
-![QCar Virtual Lab Demo](qlab.jpg)
-![Tailscale Demo](tailscale.jpg)
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="qlab.jpg" alt="QCar Virtual Lab Demo" width="95%"><br>
+<b>QCar Virtual Lab Demo</b>
+</td>
+<td align="center" width="50%">
+<img src="tailscale.jpg" alt="Tailscale Demo" width="95%"><br>
+<b>Tailscale Private Networking</b>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ```
 [Phone Controller] ⇄ [WebSocket Server] ⇄ [QCar / Virtual Lab]
