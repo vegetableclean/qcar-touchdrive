@@ -21,7 +21,7 @@ With Tailscale, you can securely control your vehicle across networks, even from
 <b>QCar Virtual Lab Demo</b>
 </td>
 <td align="center" width="50%">
-<img src="tailscale.jpg" alt="Tailscale Demo" width="65%"><br>
+<img src="tailscale.jpg" alt="Tailscale Demo" width="35%"><br>
 <b>Tailscale Private Networking</b>
 </td>
 </tr>
