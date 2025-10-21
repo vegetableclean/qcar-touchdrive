@@ -13,6 +13,7 @@ The QCar TouchDrive app connects your phone directly to the Quanser QCar — eit
 With Tailscale, you can securely control your vehicle across networks, even from outside your local lab.
 
 ![QCar Virtual Lab Demo](docs/virtual_lab.png)
+![Tailscale Demo](tailscale.jpg)
 
 ```
 [Phone Controller] ⇄ [WebSocket Server] ⇄ [QCar / Virtual Lab]
